@@ -1,0 +1,14 @@
+flask
+flask-sqlalchemy
+pymysql
+flask-migrate
+python-dotenv
+flask-shell
+flask-shell-ipython
+faker
+cryptography
+pypinyin
+flask-wtf
+flask-login
+flask-mail
+flask-whooshee
